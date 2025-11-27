@@ -30,7 +30,6 @@ h1, h2, h3 {
 .rearr {
     display: flex;
     justify-content: space-evenly;
-    /* Opțional: permite elementelor să treacă pe rândul următor dacă e ecranul mic */
     flex-wrap: wrap; 
 }
 
